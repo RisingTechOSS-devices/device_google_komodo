@@ -1,0 +1,11 @@
+[
+  {
+    "repository": "android_device_google_caimito",
+    "target_path": "device/google/caimito"
+  },
+  {
+    "repository": "vendor_google_komodo",
+    "branch": "fifteen",
+    "target_path": "vendor/google/komodo"
+  }
+]
