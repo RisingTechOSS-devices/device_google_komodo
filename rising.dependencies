@@ -6,6 +6,7 @@
   {
     "repository": "vendor_google_komodo",
     "branch": "fifteen",
+    "remote": "devices-gitlab",
     "target_path": "vendor/google/komodo"
   }
 ]
